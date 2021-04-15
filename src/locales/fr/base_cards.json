@@ -39,7 +39,7 @@
     "Action: Pay 12 MC to place an ocean tile. TITANIUM MAY BE USED as if playing a Space card.": "Action: Payez 12 M€ pour placer une tuile Océan. vous POUVEZ UTILISER DU TITANE comme si vous jouiez une carte Espace.",
     "1 VP for each Jovian tag you have.": "1 PC par badge Jovien en votre possession.",
 
-    "Space Elevator": "Ascenceur Spatial",
+    "Space Elevator": "Ascenseur Spatial",
     "Action: Spend 1 steel to gain 5 MC.": "Action: Dépensez 1 acier pour gagner 5 M€.",
     "Increase your titanium production 1 step.": "Augmentez votre production de titane de 1.",
 
@@ -213,7 +213,7 @@
     "Decrease your Energy production 1 step and increase your steel production 2 steps.": "Diminuez votre production d'énergie de 1 et augmentez votre production d'acier de 2.",
 
     "Land Claim": "Revendication du terrain",
-    "PLACE YOUR MARKER ON A NON-RESERVED AREA. ONLY YOU MAY PLACE A TILE HERE.": "PLACEZ VOTRE MARQUEUR SUR UNE ZONE NON-RÉSERVÉE. VOUS SEUL POUVEZ PLACER UNE TUILE SUR CETTE ZONE.",
+    "Place your marker on a non-reserved area. Only you may place a tile there.": "PLACEZ VOTRE MARQUEUR SUR UNE ZONE NON-RÉSERVÉE. VOUS SEUL POUVEZ PLACER UNE TUILE SUR CETTE ZONE.",
 
     "Mining Rights": "Droits Miniers",
     "Place this tile on an area with a steel or titanium placement bonus. Increase that production 1 step.": "Placez cette tuile sur une zone offrant un bonus d'acier ou de titane. Augmentez votre production de cette ressource de 1.",
@@ -229,7 +229,8 @@
     "Effect: When you play a card, you pay 2 MC less for it.": "Effet: Le coût des cartes que vous jouez est réduit de 2 M€.",
 
     "Advanced Alloys": "Alliages Avancés",
-    "Effect: Each titanium you have is worth 1 MC extra. Each steel you have is worth 1 MC extra.": "Effet: Chaque titane en votre possession vaut 1 M€ supplémentaire. Chaque acier en votre possession vaut 1 M€ supplémentaire.",
+    "Effect: Each titanium you have is worth 1 MC extra.": "Effet: Chaque titane en votre possession vaut 1 M€ supplémentaire.",
+    "Effect: Each steel you have is worth 1 MC extra.": "Effet: Chaque acier en votre possession vaut 1 M€ supplémentaire.",
 
     "Birds": "Oiseaux",
     "Action: Add an animal to this card.": "Action: Ajoutez un animal sur cette carte.",
@@ -272,10 +273,11 @@
     "Trans-Neptune Probe": "Sonde Trans-Neptunienne",
 
     "Commercial District": "Quartier Commercial",
-    "Decrease your energy production 1 step and increase your MC production 4 steps.": "Diminuez votre production d'énergie de 1 et augmentez votre production de M€ de 4.",
-    "Place this tile. 1 VP PER ADJACENT CITY TILE.": "Placez cette tuile. 1 PV PAR TUILE CITÉ ADJACENTE.",
+    "Place this tile. Decrease your energy production 1 step and increase your MC production 4 steps.": "Placez cette tuile. Diminuez votre production d'énergie de 1 et augmentez votre production de M€ de 4.",
+    "1 VP PER ADJACENT CITY TILE.": "1 PV PAR TUILE CITÉ ADJACENTE.",
 
     "Robotic Workforce": "Main d'Œuvre Robotique",
+    "Copy A": "Copie ",
     "Duplicate only the production box of one of your building cards.": "Dupliquez uniquement la capacité de production de l'une de vos cartes Construction.",
 
     "Grass": "Herbe",
@@ -403,9 +405,9 @@
     "Place 1 ocean tile.": "Placez 1 tuile Océan.",
 
     "Ecological Zone": "Zone Écologique",
-    "Effect: When you play an animal or plant tag (including these), add an animal to this card.": "Effet: Lorsque vous jouez un badge Animal ou Plante (y compris ces deux-là), ajoutez un animal sur cette carte.",
+    "Effect: When you play an animal or plant tag /including these/, add an animal to this card.": "Effet: Lorsque vous jouez un badge Animal ou Plante (y compris ces deux-là), ajoutez un animal sur cette carte.",
     "1 VP per 2 Animals on this card.": "1 PV par groupe de 2 animaux sur cette carte.",
-    "Requires that you have a greenery tile. Place this tile adjacent to any greenery tile.": "Nécessite que vous possédiez une tuile Forêt. Placez cette tuile ADJACENTE À N'IMPORTE QUELLE TUILE FORÊT.",
+    "Requires that YOU have a greenery tile. Place this tile adjacent to ANY greenery.": "Nécessite que vous possédiez une tuile Forêt. Placez cette tuile ADJACENTE À N'IMPORTE QUELLE TUILE FORÊT.",
 
     "Zeppelins": "Zeppelins",
     "Requires 5% oxygen. Increase your MC production 1 step for each City tile ON MARS.": "Nécessite au moins 5% d'oxygène. Augmentez votre production de M€ de 1 pour chaque tuile Cité SUR MARS.",
@@ -439,7 +441,7 @@
     "Cartel": "Cartel",
     "Increase your MC production 1 step for each Earth tag you have, including this.": "Augmentez votre production de M€ de 1 pour chaque badge Terre en votre possession, y compris celui-ci.",
 
-    "Strip Mine": "Mice à Ciel Ouvert",
+    "Strip Mine": "Mine à Ciel Ouvert",
     "Decrease your Energy production 2 steps. Increase your steel production 2 steps and your titanium production 1 step. Raise oxygen 2 steps.": "Diminuez votre production d'énergie de 2. Augmentez votre production d'acier de 2 et votre production de titane de 1. Augmentez l'oxygène de 2.",
 
     "Wave Power": "Énergie Marémotrice",

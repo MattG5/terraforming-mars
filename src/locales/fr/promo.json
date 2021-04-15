@@ -44,7 +44,7 @@
   "opponents may not remove your plants": "Les adversaires ne peuvent plus vous retirer de plantes.",
   "Decrease your energy production 1 step. 1VP per asteroid on this card.": "Diminuez votre production d'énergie de 1. 1 PV par astéroïde sur cette carte.",
 
-  "Jovian Embassy": "Embassade Jovian",
+  "Jovian Embassy": "Ambassade Jovian",
   "Raise your TR 1 step.": "Augmentez votre NT de 1.",
 
   "Sub-Crust Measurements": "Mesure de la Sous-croute",
@@ -104,7 +104,8 @@
   "Action: Spend any amount of energy to draw the same number of cards. TAKE 1 INTO HAND AND DISCARD THE REST.": "Action: Dépensez n'importe quelle quantité d'énergiepour piocher un même nombre de cartes. GARDEZ 1 DE CES CARTES EN MAIN ET DEFAUSSEZ LES AUTRES.",
 
   "Mercurian Alloys": "Alliages Mercuriens",
-  "Effect: Your titanium resources are worth 1 MC extra. Requires 2 Science tags.": "Effet: vos ressources titane valent 1 M€ supplémentaires.Nécessite 2 badges Science.",
+  "Effect: Your titanium resources are worth 1 MC extra.": "Effet: vos ressources titane valent 1 M€ supplémentaires.",
+  "Requires 2 Science tags.": "Nécessite 2 badges Science.",
 
   "Energy Market": "Marché de l'Energie",
   "Action: Spend 2X MC to gain X energy.": "Action: Dépensez 2 X M€ pour gagner X énergie.",
@@ -116,5 +117,8 @@
   "Add 2 asteroids to this card.": "*Ajouez 2 astéroïdes sur cette carte.",
 
   "Stanford Torus": "Tore de Stanford",
-  "Place a city tile IN SPACE, outside and separate from the planet.": "Placez une tuile Cité DANS L'ESPACE, en dehors et détachée de la planète."
+  "Place a city tile IN SPACE, outside and separate from the planet.": "Placez une tuile Cité DANS L'ESPACE, en dehors et détachée de la planète.",
+  
+  "Bio Printing Facility": "Etablissement de bio impression",
+  "Action: Spend 2 energy to gain 2 plants OR to add 1 animal to ANOTHER card.": "Action : Dépensez 2 energies pour gagner 2 plantes OU pour ajouter 1 animal à une AUTRE carte."
 }
